@@ -1,0 +1,2 @@
+SHA1(amzn2-vmware_esx-2.0.20190313-x86_64.xfs.gpt-disk1.vmdk)= 3d15b06fbf366d8bd07d37454569cc69c182e665
+SHA1(amzn2-vmware_esx-2.0.20190313-x86_64.xfs.gpt.ovf)= cc7455e8e3c8206cffe03794c7ea638c32f733e8
