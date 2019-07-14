@@ -24,7 +24,7 @@ to
         <rasd:ResourceType>6</rasd:ResourceType>
 </Item>
 ```
-Since this will change the sha1 signature of the file, I have attached the updated manifest file. 
+Since this will change the sha1 signature of the file, I have attached the updated manifest file. Make sure you update <user> and <password> to values appropriate for you. 
 
 Also included are the [cloud-init](https://cloudinit.readthedocs.io/en/latest/) files I am using.
 
