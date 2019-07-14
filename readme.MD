@@ -1,3 +1,5 @@
+# Making Amazon Linux 2.0.20190612 run on VMware workstation
+
 Amazon Linux can be installed and used on-premise on various virtualiztion platforms.
 
 However, in release [2.0.20190612](https://cdn.amazonlinux.com/os-images/2.0.20190612/) there is an issue with the definition of the SCSI controller which causes an issue in installing on VMware workstation. The fix is to replace the SCSI Controller in the amzn2-vmware_esx-2.0.20190313-x86_64.xfs.gpt.ovf, from:
